@@ -6,21 +6,32 @@
 short form for team members to be used later. You can take your
 initials.*
 
-| Name               | Key | Focus (Optional) |
-|--------------------|-----|------------------|
-| FIRSTNAME LASTNAME | FL  |                  |
-| OTHERNAME LASTNAME | OL  |                  |
-| TEAM MEMBER        | TM  |                  |
-| …                  | …   |                  |
+
+
+
+
+
+| Name             | Key |                 Focus                  |
+|------------------|-----|----------------------------------------|
+| ZANELE NGWENY    | ZN  | Policy and Flow (Coder)                |
+| JUDITH ROTICH    | JR  | Policy and Flow (Data Steward)         |
+| MABANGO NYIKURI  | MN  | Brain Waste and Spatial (Coder)        |
+| MARK KURIA       | MK  | Brain Waste and Spatial (Data Steward) |
+| ZIZIPO NTSHATSHA | ZN  | Economic Gain (Coder)                  |
+| MORNÉ MAGERMAN   | MM  | Economic Gain (Data Steward)           |
 
 ## Proposal Presentation
 
-*Writing this section is obligatory *before* the **proposal**
-presentation! (You can delete this text in italics when done.)*
-
 #### Goals/Questions
 
-*Write down your main goals your project shall achieve. This can also take the form of data science questions you want to answer.*
+## Research Question
+To what extent do Nigerian macro-economic pressures and UK policy interventions determine the scale, spatial distribution, and professional utilization of Nigerian healthcare talent and labourwithin the UK labor market?
+
+## Key Goals
+Identify if migration pulses are driven by UK visa policy shocks or Nigerian inflation/unemployment.
+Map geographic clustering and quantify the mismatch between qualifications and SOC codes, i.e, Brain Waste.
+Determine if the financial gain of remittances compensates for the human capital loss in Nigeria’s healthcare system.
+
 
 
 #### Tasks
@@ -33,7 +44,7 @@ presentation! (You can delete this text in italics when done.)*
 | *Task 2*                         | TM  | Week 6 |
 | *Task 3*                         | XY  | Week 6 |
 | *Task 4*                         | FL, TM  | Week 7 |
-| ...                         | ...  | ... |
+| ...                              | ...  | ... |
 
 ## Progress Presentation
 

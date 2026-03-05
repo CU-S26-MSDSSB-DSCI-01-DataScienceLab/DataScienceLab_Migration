@@ -1,17 +1,37 @@
 ---
 title: "Introduction"
 ---
-
-<!-- You can also write your own headline structure. -->
-
 # Project Description
+This project investigates the systemic migration of Nigerian healthcare talent, including doctors, nurses, and allied health professionals to the United Kingdom. Nigeria is facing an acute healthcare workforce crisis, characterized by a doctor-to-patient ratio of 1:9,083 and significant nursing shortages that threaten the sustainability of its healthcare system.
 
-*Write here about the goals and/or list your data science questions.*
+## The "Push" and the "Pull"
+We frame this movement through two lenses: Nigeria's macro-economic pressures, i.e. inflation and unemployment; and UK's active recruitment to fill its own critical nursing and medical vacancies. We aim to determine if UK policy interventions, such as the 2021 Health and Care Worker Visa, act as a "vacuum" for Nigerian talent.
+
+## Research Question
+To what extent do macroeconomic conditions in Nigeria and immigration policy interventions in the UK influence the volume, geographic distribution, and professional deployment of Nigerian healthcare workers in the UK?
+
 
 # Data Sources
+To audit the movement of human capital, we are utilzing:
 
-*Write a summary of the data sources you are using. If some data is used in most of the following pages you can already here provide some descriptive tables and visuals to describe your data. You can also use cross-links, for example to your [Dashboard](dashboard.qmd) (optional).*
+## Policy and Migration Flow
+We combine annual migration data from the OECD International Migration Database (IMD) with qualitative policy data from the DEMIG POLICY Database.
+
+## Labor Market and Spatial Distribution
+We utilize granular UK Census data from ONS Nomis, cross-referenced with Standard Occupational Classification (SOC) codes to detect "Brain Waste" (skill mismatches).
+
+## Economic Impact
+Financial benchmarks are sourced from World Bank KNOMAD (remittances) and the IAB Brain Drain dataset to weigh human capital loss against financial gain.
+
 
 # Sections
+Our analysis is organized into three distinct sections:
 
-*Write here a short summary of the other pages. You can also use cross-links to your pages like [Section (here `sec2.ipynb`)](sec2.ipynb).*
+## Policy and Flow
+Analyzes whether migration "pulses" correlate more with UK policy shocks or Nigerian economic instability.
+
+## Brain Waste and Spatial Distribution
+Investigates career stagnation, mapping where Nigerian talent is concentrated in the UK and if they are stuck in roles below their qualification levels.
+
+## The Economic vs. Human Capital Loss_
+Quantifies the "Net Gain" for Nigeria, determining if remittance inflows truly compensate for the 1:9,083 healthcare crisis.
