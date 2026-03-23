@@ -38,13 +38,15 @@ Determine if the financial gain of remittances compensates for the human capital
 
 *All team members should appear here with at least one task. If you plan ahead you can already now dradft tasks for the time after the progress presentation.*
 
-| Task                             | Who | When |
-|----------------------------------|-----|------|
-| *Task 1*                         | FL  | Week 6 |
-| *Task 2*                         | TM  | Week 6 |
-| *Task 3*                         | XY  | Week 6 |
-| *Task 4*                         | FL, TM  | Week 7 |
-| ...                              | ...  | ... |
+| Task                             | Who           | When             |
+|----------------------------------|-----          |------|
+| Project Planning                 | MN,MM         | Week 6           |
+| Data Acquisition                 | JR, MK, MM    | Week 7           |
+| Data Cleaning & Standardisation  | Team          | Week 8           |
+| Dataset integration              | JR, MK, MM    | Week 8, 9        |
+| Analysis & Modeling              | ZN, MN, ZN    | Week 8, 9, 10    |
+| Results                          | Team          | Week 10, 11      |
+| Final Report & Presentation      | Team          | Week 10, 11, 12  |
 
 ## Progress Presentation
 
@@ -55,17 +57,25 @@ presentation! (You can delete this text in italics when done.)*
 
 *Briefly describe for each team member what hs been done since the proposal presentation. This can be a list like: "contributed to the data prepatation script, started the page for question 1 and wrote the outline of it, created a first descriptive visual about XYZ, configured GitHub pages such the draft website is live*
 
-*Team member 1*: *Text*  
+ZANELE NGWENY: The Coder for subgroup 1, that investigate the policy and flow of the overall project. She started with coding the initial stages of the subgroups investigation. 
 
-*Team member 2*: *Text*  
+JUDITH ROTICH: The Data Steward for subgroup 1, that investigate the policy and flow of the overall project. She compiled the initial datasets for investigation. 
 
-*Team member 3*: *Text*  
+MABANGO NYIKURI: The Coder for subgroup 2, that investigate the brain waste and provide spatial representation of the overall project. He started with coding teh initial stages of the subgroups investigation. 
 
+MARK KURIA: The Data Steward for subgroup 2, that investigate the brain waste and provide spatial representation of the overall project. He compiled the initial datasets for investigation.
+
+ZIZIPO NTSHATSHA: The Coder for subgroup 3, that investigate the economic gain of the overall project. She started with coding the initial stages of the subgroups investigation, due to her team member being ill she also compiled the initial datasets for investigation.  
+
+MORNÉ MAGERMAN: The Data Steward for subgroup 3, that investigate the economic gain of the overall project. He revised the initial datasets compiled by his team member. He also updated the workplan and started with the final project report/html. 
 ...
 
 #### Tasks
 
 *Create a table with the tasks for the time until the final presentation.*
+
+
+
 
 ## Final Presentation
 
