@@ -6,7 +6,7 @@ project:
     - "!*.md"   # This excludes all `.md` files, like `INSTRUCTIONS.md` to be put into the _site folder. 
 
 website:
-  title: "THE TITLE OF YOUR PROJECT"    # Replace with the title of your project
+  title: "Nigeria to UK: The Healthcare Workforce Migration Audit"    # Replace with the title of your project
   navbar: # This specifies the navigation bar at the top of the page.
     left:
       - text: "Home"
