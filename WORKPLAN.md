@@ -51,17 +51,7 @@ ZANELE NGWENY: The Coder for subgroup 1, that investigate the policy and flow of
 
 JUDITH ROTICH: The Data Steward for subgroup 1, that investigate the policy and flow of the overall project. She compiled the initial datasets for investigation. 
 
-<<<<<<< HEAD
-*Team member 3*: *Text*
-
-*Team member 4*: *Text*
-
-*Team member 5*: *Text*
-
-*Team member 6*: *Text*
-=======
 MABANGO NYIKURI: The Coder for subgroup 2, that investigate the brain waste and provide spatial representation of the overall project. He started with coding teh initial stages of the subgroups investigation. 
->>>>>>> d23d4608db5518054fb7fb3f675fa33c4ce8a3d3
 
 MARK KURIA: The Data Steward for subgroup 2, that investigate the brain waste and provide spatial representation of the overall project. He compiled the initial datasets for investigation.
 
