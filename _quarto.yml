@@ -15,8 +15,9 @@ website:
     style: "docked"
     contents:
       - introduction.qmd
-      - sec1.qmd
+      - sec1.ipynb
       - sec2.ipynb
+      - sec3.ipynb
       - conclusion.qmd
       - dashboard.qmd
 
