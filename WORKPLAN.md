@@ -1,16 +1,6 @@
 # WORKPLAN
 
 ## Team
-
-*List all team members and their focus in the project. The “Key” is
-short form for team members to be used later. You can take your
-initials.*
-
-
-
-
-
-
 | Name             | Key |                 Focus                  |
 |------------------|-----|----------------------------------------|
 | ZANELE NGWENY    | ZN  | Policy and Flow (Coder)                |
@@ -59,7 +49,13 @@ presentation! (You can delete this text in italics when done.)*
 
 *Team member 2*: *Text*  
 
-*Team member 3*: *Text*  
+*Team member 3*: *Text*
+
+*Team member 4*: *Text*
+
+*Team member 5*: *Text*
+
+*Team member 6*: *Text*
 
 ...
 
