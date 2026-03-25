@@ -12,7 +12,7 @@ To what extent do macroeconomic conditions in Nigeria and immigration policy int
 
 
 # Data Sources
-To audit the movement of human capital, we are utilzing:
+To audit the movement of human capital, we are utilizing:
 
 ## Policy and Migration Flow
 We combine annual migration data from the OECD International Migration Database (IMD) with qualitative policy data from the DEMIG POLICY Database.
