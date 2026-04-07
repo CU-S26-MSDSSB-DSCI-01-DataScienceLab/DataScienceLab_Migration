@@ -15,7 +15,7 @@
 #### Goals/Questions
 
 ## Research Question
-To what extent do Nigerian macro-economic pressures and UK policy interventions determine the scale, spatial distribution, and professional utilization of Nigerian healthcare talent and labourwithin the UK labor market?
+To what extent do Nigerian macro-economic pressures and UK policy interventions determine the scale, spatial distribution, and professional utilization of Nigerian healthcare talent and labour within the UK labor market?
 
 ## Key Goals
 Identify if migration pulses are driven by UK visa policy shocks or Nigerian inflation/unemployment.
@@ -26,7 +26,6 @@ Determine if the financial gain of remittances compensates for the human capital
 
 #### Tasks
 
-*All team members should appear here with at least one task. If you plan ahead you can already now dradft tasks for the time after the progress presentation.*
 
 | Task                             | Who           | When             |
 |----------------------------------|-----          |------|
@@ -44,8 +43,6 @@ Determine if the financial gain of remittances compensates for the human capital
 presentation! (You can delete this text in italics when done.)*
 
 #### Team Member Contributions
-
-*Briefly describe for each team member what hs been done since the proposal presentation. This can be a list like: "contributed to the data prepatation script, started the page for question 1 and wrote the outline of it, created a first descriptive visual about XYZ, configured GitHub pages such the draft website is live*
 
 ZANELE NGWENY: The Coder for subgroup 1, that investigate the policy and flow of the overall project. She started with coding the initial stages of the subgroups investigation. 
 
