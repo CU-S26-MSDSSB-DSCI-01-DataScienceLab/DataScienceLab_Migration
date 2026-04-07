@@ -6,12 +6,12 @@ project:
     - "!*.md"   # This excludes all `.md` files, like `INSTRUCTIONS.md` to be put into the _site folder. 
 
 website:
-  title: "Nigeria to UK: The Healthcare Workforce Migration Audit"    # Replace with the title of your project
-  navbar: # This specifies the navigation bar at the top of the page.
+  title: "Nigeria to UK: The Healthcare Workforce Migration Audit"    
+  navbar: 
     left:
       - text: "Home"
         href: index.qmd
-  sidebar: # This specifies the sidebar on the left of the page. Add your pages here in the order you want them to appear.
+  sidebar: 
     style: "docked"
     contents:
       - introduction.qmd
