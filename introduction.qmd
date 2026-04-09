@@ -25,13 +25,4 @@ Financial benchmarks are sourced from World Bank KNOMAD (remittances) and the IA
 
 
 # Sections
-Our analysis is organized into three distinct sections:
-
-## Policy and Flow
-Analyzes whether migration "pulses" correlate more with UK policy shocks or Nigerian economic instability.
-
-## Brain Waste and Spatial Distribution
-Investigates career stagnation, mapping where Nigerian talent is concentrated in the UK and if they are stuck in roles below their qualification levels.
-
-## The Economic vs. Human Capital Loss_
-Quantifies the "Net Gain" for Nigeria, determining if remittance inflows truly compensate for the 1:9,083 healthcare crisis.
+Our analysis is organized into three distinct  xcz
