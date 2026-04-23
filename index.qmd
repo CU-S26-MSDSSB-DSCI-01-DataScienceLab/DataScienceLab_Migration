@@ -2,7 +2,7 @@
 title: "Executive Summary"
 author:
     - name: "MARK KURIA "
-    - name: "NYIKURI MABANGO"
+    - name: "MABANGO NYIKURI"
     - name: "MORNÉ MAGERMAN"
     - name: "ZANELE NGWENY"
     - name: "ZIZIPO NTSHATSHA"
