@@ -1,3 +1,5 @@
+![Migration](../background.jpg)
+
 [Home](../index.html)
 
 # Migration Project
