@@ -2,4 +2,4 @@
 
 ## Project
 
-- [Migration Project](migration/)
+- [Migration Project](migration/index.html)
