@@ -6,8 +6,7 @@ This section presents the results analysing the relationship between Nigerian mi
 
 The full analytical workflow, including time-series analysis, correlation results, and index construction, is provided in the notebook below.
 
-[View Full Analysis](../results/sec3.html)
-
+<a href="../results/sec3.html" target="_blank"> View Full Analysis</a>
 ---
 
 [Previous: Section 2](results-section2.html) | [Next: Overall Discussion](overall-discussion.html)
