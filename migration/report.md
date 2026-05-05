@@ -15,4 +15,4 @@
 - [Results and Discussion](results-discussion.html)
 - [Conclusion](conclusion.html)
 - [References](references.html)
-- [Individual Reflection](individual-reflection.html)
+- [Individual Contribution](individual-contribution.html)
