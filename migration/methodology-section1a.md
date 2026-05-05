@@ -26,4 +26,4 @@ The selection of these methods is justified by their ability to combine trend an
 
 ---
 
-[Next: Section 1B →](methodology-section1b.html)
+[Previous: Section 1](methodology-section1.html) | [Next: Section 1B](methodology-section1b.html)
