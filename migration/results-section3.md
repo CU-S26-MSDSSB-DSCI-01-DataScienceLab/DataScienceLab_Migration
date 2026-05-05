@@ -8,7 +8,6 @@ The full analytical workflow, including time-series analysis, correlation result
 
 <a href="../results/sec3.html" target="_blank"> View Full Analysis</a>
 
----
 
 
 [Previous: Section 2](results-section2.html) | [Next: Overall Discussion](overall-discussion.html)
