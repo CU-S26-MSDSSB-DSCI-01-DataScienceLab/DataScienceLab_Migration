@@ -10,7 +10,7 @@ The project also contributes to the ongoing policy debate surrounding the NHS's 
 
 From Nigeria's perspective, the study highlights the inadequacy of remittance volume as a measure of migration's economic value, showing that the financial returns of emigration are shaped more by macroeconomic crisis conditions than by the size of the diaspora. This finding has implications for how Nigerian policymakers and development practitioners conceptualise the relationship between emigration and economic development, suggesting that strategies to maximise the benefit of remittances must account for the conditions under which they are sent rather than simply seeking to increase migration stock. 
 
-More broadly, this project demonstrates the value of combining publicly available administrative datasets , census records, macroeconomic indicators, migration stock data, and policy databases , with quantitative analytical methods to address complex, multi-causal migration questions. In doing so, it provides a replicable methodological framework that could be extended to other migration corridors in Sub-Saharan Africa and beyond. 
+More broadly, this project demonstrates the value of combining publicly available administrative datasets , census records, macroeconomic indicators, migration stock data, and policy databases , with quantitative analytical methods to address complex, multi-causal migration questions. In doing so, it provides a replicable methodological framework that could be extended to other migration corridors in Sub-Saharan Africa and beyond.
 
 
 
