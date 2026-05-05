@@ -5,7 +5,7 @@
 This section presents the results of the analysis examining inflation, unemployment, and migration dynamics. The full analytical workflow, including data preprocessing, visualisation, and interpretation, is provided in the notebook below.
 
 
-[View Full Analysis](../results/sec1.html)
+<a href="../results/sec1.html" target="_blank"> View Full Analysis</a>
 
 
 
