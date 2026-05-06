@@ -10,6 +10,6 @@ The study also introduces a Brain Waste Index to assess occupational outcomes, r
 
 Overall, the project demonstrates that the Nigeria,UK migration corridor is shaped by interconnected economic, policy, and labour market dynamics, highlighting the need for a multi-dimensional approach to understanding migration patterns. 
 
-
+---
 
 [← Back to Table of Contents](report.html) | [Next: Introduction →](introduction.html)
