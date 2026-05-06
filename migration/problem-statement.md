@@ -10,6 +10,6 @@ Furthermore, the outcomes of migration remain uneven and insufficiently understo
 
 Therefore, the core problem addressed by this study is the lack of a comprehensive, data-driven understanding of how macroeconomic pressures in Nigeria, immigration policy in the United Kingdom, occupational outcomes, and remittance dynamics collectively influence the scale, structure, and consequences of Nigerian migration. Without such an integrated perspective, policy responses risk being fragmented, ineffective, and misaligned with the underlying drivers of migration.
 
+--- 
 
-
-[Previous: Introduction](introduction.html) | [Next: Literature Review](literature-review.html)
+[← Previous: Introduction](introduction.html) | [Next: Literature Review →](literature-review.html)
