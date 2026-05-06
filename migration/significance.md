@@ -12,6 +12,6 @@ From Nigeria's perspective, the study highlights the inadequacy of remittance vo
 
 More broadly, this project demonstrates the value of combining publicly available administrative datasets , census records, macroeconomic indicators, migration stock data, and policy databases , with quantitative analytical methods to address complex, multi-causal migration questions. In doing so, it provides a replicable methodological framework that could be extended to other migration corridors in Sub-Saharan Africa and beyond.
 
+---
 
-
-[Previous: Research Questions](research-questions.html) | [Next: Methodology](methodology.html)
+[← Previous: Research Questions](research-questions.html) | [Next: Methodology →](methodology.html)
