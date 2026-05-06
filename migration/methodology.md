@@ -10,4 +10,4 @@ This study adopts a quantitative, data-driven approach to examine migration from
 
 ---
 
-[Previous: Significance of the Study](significance.html) | [Next: Results and Discussion](results-discussion.html)
+[← Previous: Significance of the Study](significance.html) | [Next: Results and Discussion →](results-discussion.html)
