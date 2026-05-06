@@ -18,6 +18,6 @@ The study contributes to existing literature by combining multiple dimensions of
 
 Overall, the project demonstrates that understanding migration requires moving beyond single-factor explanations toward a more integrated perspective that reflects the complexity of global labour mobility. 
 
- 
+ ---
 
-[Previous: Overall Discussion](overall-discussion.html) | [Next: References](references.html)
+[← Previous: Overall Discussion](overall-discussion.html) | [Next: References →](references.html)
