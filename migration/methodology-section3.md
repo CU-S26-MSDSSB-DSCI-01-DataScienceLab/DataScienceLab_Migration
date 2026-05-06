@@ -22,4 +22,4 @@ The 70/30 weighting reflects the assumption that remittance receipts are the dom
 
 ---
 
-[Previous: Section 2](methodology-section2.html) | [Next: Results and Discussion](results-discussion.html)
+[← Previous: Section 2](methodology-section2.html) | [Next: Results and Discussion →](results-discussion.html)
