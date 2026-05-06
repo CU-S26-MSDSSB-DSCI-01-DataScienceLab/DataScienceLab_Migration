@@ -24,6 +24,6 @@ Second, a stacked area chart was used to analyse the structure of the labour for
 
 The selection of these methods is justified by their ability to combine trend analysis with structural analysis. While the line graph captures how macroeconomic conditions evolve over time, the area chart illustrates the scale of their impact on the population. This integrated approach prioritises clarity, interpretability, and practical relevance, making it well suited for analysing economic push factors. 
 
----
+--- →
 
-[Previous: Section 1](methodology-section1.html) | [Next: Section 1B](methodology-section1b.html)
+[Previous: Section 1](methodology-section1.html) | [Next: Section 1B →](methodology-section1b.html)
