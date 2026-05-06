@@ -57,7 +57,7 @@ Responsibilities were divided into sections:
 ## Ngwenya Zanele
 
 - Conducted data preprocessing, methodology, and analysis for Section 1A.
-- Developed visualisations for inflation and unemployment analysis.
+- Developed visualisations for Inflation and Unemployment analysis.
 - Developed the GitHub Pages website structure.
 - Managed navigation and deployment of the project website.
 - Worked on overall report writing and editing.
