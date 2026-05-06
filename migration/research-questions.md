@@ -16,6 +16,6 @@ To what extent do macroeconomic conditions in Nigeria and immigration policy in 
 
 ★ How do economic, policy, and labour market factors interact to shape the Nigeria–UK migration corridor as a multi-dimensional process?  
 
+---
 
-
-[Previous: Research Objectives](objectives.html) | [Next: Significance of the Study](significance.html)
+[← Previous: Research Objectives](objectives.html) | [Next: Significance of the Study →](significance.html)
