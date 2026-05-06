@@ -9,4 +9,4 @@ This section examines the relationship between macroeconomic conditions in Niger
 
 ---
 
-[Previous: Methodology](methodology.html) | [Next: Section 2](methodology-section2.html)
+[← Previous: Methodology](methodology.html) | [Next: Section 2 →](methodology-section2.html)
