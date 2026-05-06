@@ -25,4 +25,4 @@
 
 ---
 
-[← Previous: Conclusion](conclusion.html) | [Next: Individual Reflection →](individual-reflection.html)
+[Previous: Conclusion](conclusion.html) | [Next: Individual Contribution](individual-contribution.html)
