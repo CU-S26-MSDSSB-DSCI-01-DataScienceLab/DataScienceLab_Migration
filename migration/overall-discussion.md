@@ -16,6 +16,6 @@ The overall pattern aligns with push,pull migration theory, where migration deci
 
 In conclusion, the combined evidence from all three notebooks shows that Nigerian migration cannot be fully explained by any single factor. Instead, it is a multi-dimensional process, primarily driven by domestic economic challenges and sustained by external labor demand, with immigration policy playing a secondary, moderating role rather than a determining one. 
 
+---
 
-
-[Previous: Section 3](results-section3.html) | [Next: Conclusion](conclusion.html)
+[← Previous: Section 3](results-section3.html) | [Next: Conclusion →](conclusion.html)
