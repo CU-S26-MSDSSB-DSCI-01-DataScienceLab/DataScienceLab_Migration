@@ -10,7 +10,7 @@ This section outlines the contributions of each group member to the project. Cli
 - [Kuria Mark](member2.html)
 - [Magerman Morné](member3.html)
 - [Rotich Judith](member4.html)
-- [Ntshantsh Zizipo](member5.html)
+- [Ntshatsha Zizipo](member5.html)
 - [Ngwenya Zanele](member6.html)
 
 ---
