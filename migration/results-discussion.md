@@ -13,4 +13,4 @@ This section presents the findings from the three analytical components of the p
 
 ---
 
-[Previous: Methodology](methodology.html) | [Next: Conclusion](conclusion.html)
+[← Previous: Methodology](methodology.html) | [Next: Conclusion →](conclusion.html)
