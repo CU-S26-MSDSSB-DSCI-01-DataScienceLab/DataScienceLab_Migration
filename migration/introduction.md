@@ -10,6 +10,6 @@ The second section turns to occupational outcomes, constructing a Brain Waste In
 
 Taken together in a theoretically grounded framework, the three sections demonstrate that the Nigeria,UK migration corridor cannot be understood through any single lens. Its causes, dynamics, and consequences are deeply interconnected, and it is only through multi-dimensional, data-driven analysis that the full picture begins to emerge. 
 
+---
 
-
-[Previous: Abstract](abstract.html) | [Next: Problem Statement](problem-statement.html)
+[← Previous: Abstract](abstract.html) | [Next: Problem Statement →](problem-statement.html)
