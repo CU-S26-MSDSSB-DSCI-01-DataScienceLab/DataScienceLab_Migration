@@ -6,12 +6,12 @@ This section outlines the contributions of each group member to the project. Cli
 
 ## Team Members
 
-- [Nyikuri](member1.html)
-- [Mark](member2.html)
-- [Morné](member3.html)
-- [Judith](member4.html)
-- [Zizipo](member5.html)
-- [Zanele](member6.html)
+- [Mabango-Evans](member1.html)
+- [Kuria-Mark](member2.html)
+- [Magerman-Morné](member3.html)
+- [Rotich-Judith](member4.html)
+- [Ntshantsh-Zizipo](member5.html)
+- [Ngwenya-Zanele](member6.html)
 
 ---
 
