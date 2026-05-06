@@ -10,7 +10,7 @@ Six raw datasets were used in total: a country of birth file and an occupation f
 
 For each census year, the birth-country file was filtered to retain only the Nigerian-born population count per Local Authority. The occupation file was then processed to extract three key variables: total occupational count, professional healthcare occupations (Major Group 2), and caring and personal service occupations (Major Group 6). These two files were merged at the Local Authority level, assigned a census year identifier, and concatenated into a single longitudinal master dataset spanning 2001 to 2021. All numeric columns were standardised to consistent data types, and missing values were replaced with zero to preserve Local Authority coverage. 
 
-A core derived variable — the Brain Waste Index (BWI) — was then calculated for each Local Authority and census year using the following formula: 
+A core derived variable, the Brain Waste Index (BWI) was then calculated for each Local Authority and census year using the following formula: 
 
 BWI= Caring Occupations / Professional Occupations+Caring Occupations  
 
