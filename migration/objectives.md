@@ -8,6 +8,6 @@
 
 ★ To assess the relationship between Nigerian migration to the UK and remittance inflows to Nigeria as an indicator of economic impact.
 
+--- 
 
-
-[Previous: Literature Review](literature-review.html) | [Next: Research Questions](research-questions.html)
+[← Previous: Literature Review](literature-review.html) | [Next: Research Questions →](research-questions.html)
