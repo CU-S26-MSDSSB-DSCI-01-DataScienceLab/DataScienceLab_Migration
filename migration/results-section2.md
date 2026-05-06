@@ -6,7 +6,10 @@ This section presents the results examining the occupational outcomes of Nigeria
 
 The full analytical workflow, including preprocessing, index construction, visualisation, and spatial analysis, is provided in the notebook below.
 
-<a href="../results/sec2.html" target="_blank"> View Full Analysis</a>
+<a href="../results/sec2.html" target="_blank">
+View Full Analysis
+</a>
+
 
 
 
