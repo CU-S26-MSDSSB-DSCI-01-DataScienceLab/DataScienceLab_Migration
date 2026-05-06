@@ -10,7 +10,6 @@ The full analytical workflow, including preprocessing, index construction, visua
 View Full Analysis
 </a>
 
+---
 
-
-
-[Previous: Section 1](results-section1.html) | [Next: Section 3](results-section3.html)
+[← Previous: Section 1](results-section1.html) | [Next: Section 3 →](results-section3.html)
