@@ -2,17 +2,67 @@
 
 # Individual Contribution
 
-This section outlines the contributions of each group member to the project. Click on each name to view their specific role and responsibilities.
+This section outlines the contributions of each group member to the project.
 
-## Team Members
+Responsibilities were divided into sections:
 
-- [Mabango Evans](member1.html)
-- [Kuria Mark](member2.html)
-- [Magerman Morné](member3.html)
-- [Rotich Judith](member4.html)
-- [Ntshatsha Zizipo](member5.html)
-- [Ngwenya Zanele](member6.html)
+- Section 1: Judith & Zanele
+- Section 2: Evans & Mark
+- Section 3: Morné & Zizipo
 
 ---
 
-[Previous: References](references.html)
+## Mabango Evans
+
+- Conducted data preprocessing, methodology, and analysis for Section 2.
+- Developed visualisations for Brain Waste and Spatial Distribution analysis.
+- Participated in class progress presentations.
+
+---
+
+## Kuria Mark
+
+- Conducted data preprocessing and analysis for Section 2.
+- Developed visualisations for Brain Waste and Spatial Distribution analysis.
+
+---
+
+## Magerman Morné
+
+- Assisted with compiling presentations.
+- Participated in class progress presentations.
+- Revised initial datasets compiled by Zizipo.
+
+---
+
+## Rotich Judith
+
+- Conducted data preprocessing, methodology, and analysis for Section 1B.
+- Developed visualisations for UK Immigration Policy and Healthcare Migration analysis.
+- Participated in class progress presentations.
+
+---
+
+## Ntshatsha Zizipo
+
+- Conducted data preprocessing, methodology, and analysis for Section 3.
+- Developed visualisations for Migration and Remittance analysis.
+- Worked on overall report writing and editing.
+- Managed navigation and deployment of the project website.
+- Reviewed references and citations.
+- Participated in class progress presentations.
+
+---
+
+## Ngwenya Zanele
+
+- Conducted data preprocessing, methodology, and analysis for Section 1A.
+- Developed visualisations for inflation and unemployment analysis.
+- Developed the GitHub Pages website structure.
+- Managed navigation and deployment of the project website.
+- Worked on overall report writing and editing.
+- Participated in class progress presentations.
+
+---
+
+[← Previous: References](references.html) | [Back to Table of Contents](report.html)
