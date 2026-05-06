@@ -49,8 +49,8 @@ Responsibilities were divided into sections:
 - Developed visualisations for Migration and Remittance analysis.
 - Worked on overall report writing and editing.
 - Managed navigation and deployment of the project website.
-- Reviewed references and citations.
 - Participated in class progress presentations.
+- Reviewed references and citations.
 
 ---
 
@@ -58,10 +58,10 @@ Responsibilities were divided into sections:
 
 - Conducted data preprocessing, methodology, and analysis for Section 1A.
 - Developed visualisations for Inflation and Unemployment analysis.
-- Developed the GitHub Pages website structure.
-- Managed navigation and deployment of the project website.
 - Worked on overall report writing and editing.
+- Managed navigation and deployment of the project website.
 - Participated in class progress presentations.
+- Developed the GitHub Pages website structure.
 
 ---
 
