@@ -10,6 +10,6 @@ On occupational outcomes, Mattoo, Neagu and Özden (2008) coined the term "brain
 
 Taken together in a theoretically grounded framework, the existing literature situates this project within well-established debates on economic migration, healthcare brain drain, skilled migrant integration, and remittance economics. Where this project contributes is in combining all four dimensions into a single longitudinal, data-driven analysis of the Nigeria,UK corridor, drawing on primary datasets to test theoretical claims empirically across three decades. 
 
+---
 
-
-[Previous: Problem Statement](problem-statement.html) | [Next: Research Objectives](objectives.html)
+[← Previous: Problem Statement](problem-statement.html) | [Next: Research Objectives →](objectives.html)
