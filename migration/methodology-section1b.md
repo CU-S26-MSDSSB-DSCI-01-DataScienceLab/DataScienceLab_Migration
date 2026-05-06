@@ -26,4 +26,4 @@ This approach allows for the estimation of how changes in immigration policy are
 
 ---
 
-[Previous: Section 1A](methodology-section1a.html) | [Next: Section 2](methodology-section2.html)
+[← Previous: Section 1A](methodology-section1a.html) | [Next: Section 2 →](methodology-section2.html)
