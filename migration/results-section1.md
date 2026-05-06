@@ -9,6 +9,6 @@ This section presents the results of the analysis examining inflation, unemploym
 View Full Analysis
 </a>
 
+---
 
-
-[Previous: Results and Discussion](results-discussion.html) | [Next: Section 2](results-section2.html)
+[← Previous: Results and Discussion](results-discussion.html) | [Next: Section 2 →](results-section2.html)
