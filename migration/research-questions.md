@@ -6,7 +6,7 @@ To what extent do macroeconomic conditions in Nigeria and immigration policy in 
 
 ## Sub-Questions
 
-★ How do inflation, unemployment, and underemployment in Nigeria act as push factors driving outward migration?  
+★ How does inflation, unemployment, and underemployment in Nigeria act as push factors driving outward migration?  
 
 ★ To what extent does UK immigration policy restrictiveness affect the migration of Nigerian healthcare workers?  
 
